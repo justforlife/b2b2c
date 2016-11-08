@@ -9,7 +9,7 @@
    public static void main(String[] args)
      throws UnsupportedEncodingException
    {
-     test_get_user("cccc");
+     test_get_user("cccc1");
    }
  
    public static void testLogin()
